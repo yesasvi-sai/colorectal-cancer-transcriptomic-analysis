@@ -76,7 +76,6 @@ library(pheatmap)
 library(ggrepel)
 ```
 
-**R version**: 4.3.0 or higher
 
 ## Results
 
@@ -141,8 +140,6 @@ library(ggrepel)
 | Translation | 2.47 | 3.7×10⁻⁹ | Enhanced protein synthesis |
 | S Phase | 2.45 | 3.7×10⁻⁹ | Accelerated cell cycle |
 | Mitotic G1 | 2.53 | 3.7×10⁻⁹ | Checkpoint dysregulation |
-
-**NES Interpretation**: NES > 2.0 indicates very strong coordinated pathway regulation
 
 
 ## Key Findings
